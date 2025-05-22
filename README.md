@@ -11,11 +11,6 @@ A conversational AI chatbot built using **Retrieval-Augmented Generation (RAG)**
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [Security Note](#security-note)
-- [License](#license)
 
 ---
 
