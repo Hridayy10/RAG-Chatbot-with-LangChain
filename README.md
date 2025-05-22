@@ -1,5 +1,5 @@
 # RAG-Chatbot-with-LangChain
-# 🤖 RAG Chatbot with LangChain & Google Gemini
+# 🤖 RAG Chatbot with LangChain 
 
 A conversational AI chatbot built using **Retrieval-Augmented Generation (RAG)** principles, powered by **LangChain** and **Google's Gemini 2.0 Flash LLM**. This project demonstrates how to create an intelligent, context-aware chatbot that can handle structured prompts, hold conversations, and support customization through LLM parameters.
 
